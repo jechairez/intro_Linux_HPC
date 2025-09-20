@@ -1,1 +1,1 @@
-#Intro Linux ´HPC con Python
+# Intro2 Linux + HPC con Python
